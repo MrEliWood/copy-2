@@ -1,0 +1,37 @@
+{
+	"name": "copy-2",
+	"version": "0.0.1",
+	"description": "Simple React button component for copying content to the clipboard.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrEliWood/copy-2.git"
+	},
+	"keywords": [
+		"copy",
+		"copy-to-clipboard",
+		"copy-to",
+		"to-clipboard",
+		"react",
+		"react-copy",
+		"react-copy-to",
+		"react-copy-to-clipboard",
+		"react-to-clipboard",
+		"react-clipboard",
+		"clipboard",
+		"copy-2",
+		"react-copy-2",
+		"react-copy-2-clipboard",
+		"react-2-clipboard",
+		"copy-2-clipboard"
+	],
+	"author": "Eli Wood",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MrEliWood/copy-2/issues"
+	},
+	"homepage": "https://github.com/MrEliWood/copy-2#readme"
+}
